@@ -481,3 +481,10 @@ M_INFO_CONNECTED_TO_CHAT=Connected to chat server.
 M_INFO_RECONNECTING=Reconnecting...
 M_INFO_RECONNECTION_FAIL=Disconnected from chat server.
 M_INFO_USER_DISCONNECT=%s disconnected.
+
+#2.5.0
+
+L_RECORD_TURNS=%d Turns
+
+M_INFO_NO_RECORD_FOUND=No Record Found
+M_INFO_USER_CONNECT=%s connected.
