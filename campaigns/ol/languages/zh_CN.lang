@@ -42,11 +42,9 @@ C_OL_STAGE_5_MESSAGE_14=沃拉顿在试图返回真实世界的途中被消灭�
 C_OL_STAGE_5_MESSAGE_15=镜之恶魔：所有试图进入镜世界的人将会堕落.
 C_OL_STAGE_5_MESSAGE_16=镜之恶魔：所有试图返回真实世界的人将会消失.
 
-
-
-
-
-
-
-
-
+C_OL_STAGE_6_NAME=波神之怒 (3)
+C_OL_STAGE_6_OBJECTIVE_1=胜利条件：占领波神的城堡
+C_OL_STAGE_6_OBJECTIVE_2=失败条件：回合数超过99
+C_OL_STAGE_6_MESSAGE_1=波神之怒发动
+C_OL_STAGE_6_MESSAGE_2=报告大王！我们联军的水军一上场就被波神之怒给砸死了！我去这可咋整啊！
+C_OL_STAGE_6_MESSAGE_3=报告大王！我们联军的部队一站上陆地就被波神之怒给砸晕投降了！这特么简直就是我军最艰难的时刻啊！
