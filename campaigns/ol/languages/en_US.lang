@@ -47,3 +47,9 @@ C_OL_STAGE_6_OBJECTIVE_2=DEFEAT: Turn number exceeds 99.
 C_OL_STAGE_6_MESSAGE_1=BW'S FURY ACTIVATED
 C_OL_STAGE_6_MESSAGE_2=Your Majesty! Our navy units are being immediately destroyed by blackwave's fury! This does not look good!
 C_OL_STAGE_6_MESSAGE_3=Your Majesty! Our units are being immediately confused by blackwave's fury and betraying us if stepping on land! This sure is our hardest time!
+
+C_OL_STAGE_7_NAME=Diversion (2)
+C_OL_STAGE_7_OBJECTIVE_1=VICTORY: Defeat enemy team.
+C_OL_STAGE_7_OBJECTIVE_2=DEFEAT: Lose all your army and castles.
+C_OL_STAGE_7_MESSAGE_1=Your Majesty, our enemy has developed the use of mirror copier. They can copy their troops.
+

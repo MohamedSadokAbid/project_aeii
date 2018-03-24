@@ -48,3 +48,8 @@ C_OL_STAGE_6_OBJECTIVE_2=失败条件：回合数超过99
 C_OL_STAGE_6_MESSAGE_1=波神之怒发动
 C_OL_STAGE_6_MESSAGE_2=报告大王！我们联军的水军一上场就被波神之怒给砸死了！我去这可咋整啊！
 C_OL_STAGE_6_MESSAGE_3=报告大王！我们联军的部队一站上陆地就被波神之怒给砸晕投降了！这特么简直就是我军最艰难的时刻啊！
+
+C_OL_STAGE_7_NAME=声东击西 (2)
+C_OL_STAGE_7_OBJECTIVE_1=胜利条件：消灭所有敌人
+C_OL_STAGE_7_OBJECTIVE_2=失败条件：失去所有单位和城堡
+C_OL_STAGE_7_MESSAGE_1=陛下，我们的敌人从魔塔中偷去了神器中心对称飞行器，并且用它改造了这里的地形，现在我们的部队会凭空传送到地图的另一侧，而敌人则会凭空复制。
