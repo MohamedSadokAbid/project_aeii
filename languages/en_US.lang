@@ -47,44 +47,6 @@ L_WIDTH=Width
 L_ZOOM_IN=Zoom In
 L_ZOOM_OUT=Zoom Out
 
-#ability names
-L_ABILITY_NAME_0=Conqueror
-L_ABILITY_NAME_1=Fighter of the Water
-L_ABILITY_NAME_2=Fighter of the Forest
-L_ABILITY_NAME_3=Fighter of the Mountain
-L_ABILITY_NAME_4=Destroyer
-L_ABILITY_NAME_5=Air Force
-L_ABILITY_NAME_6=Necromancer
-L_ABILITY_NAME_7=Healer
-L_ABILITY_NAME_8=Charger
-L_ABILITY_NAME_9=Poisoner
-L_ABILITY_NAME_10=Repairer
-L_ABILITY_NAME_11=Undead
-L_ABILITY_NAME_12=Marksman
-L_ABILITY_NAME_13=Son of the Water
-L_ABILITY_NAME_14=Son of the Forest
-L_ABILITY_NAME_15=Son of the Mountain
-L_ABILITY_NAME_16=Fleet-footed
-L_ABILITY_NAME_17=Slowing Aura
-L_ABILITY_NAME_18=Commander
-L_ABILITY_NAME_19=Heavy Machine
-L_ABILITY_NAME_20=Attack Aura
-L_ABILITY_NAME_21=Bloodthirsty
-L_ABILITY_NAME_22=Guardian
-L_ABILITY_NAME_23=Refresh Aura
-L_ABILITY_NAME_24=Lord of Terror
-L_ABILITY_NAME_25=Counter Madness
-L_ABILITY_NAME_26=Blinding Attack
-L_ABILITY_NAME_27=Rehabilitation
-L_ABILITY_NAME_28=Hard Skin
-L_ABILITY_NAME_29=Magic Body
-
-#status names
-L_STATUS_NAME_0=Poisoned
-L_STATUS_NAME_1=Slowed
-L_STATUS_NAME_2=Inspired
-L_STATUS_NAME_3=Blinded
-
 #unit names
 L_UNIT_NAME_0=Soldier
 L_UNIT_NAME_1=Archer
@@ -101,77 +63,21 @@ L_UNIT_NAME_11=Crystal
 L_UNIT_NAME_12=Paladin
 L_UNIT_NAME_13=Berserker
 L_UNIT_NAME_14=Ghost
-L_UNIT_NAME_15=Archmage
+L_UNIT_NAME_15=Black Mage
 L_UNIT_NAME_16=Wolfarcher
 L_UNIT_NAME_17=Ice Elemental
 L_UNIT_NAME_18=Slime
 
 M_CONFIRM_EXIT_GAME=Exit Game?
 M_INFO_GAME_SAVED=Game saved.
-M_INFO_HAVENS_FURY_ACTIVATE=HEAVEN'S FURY ACTIVATED
-M_INFO_HAVENS_FURY_TARGET=TARGET AQUIRED...
+M_INFO_DIVINE_JUDGEMENT_ACTIVATE=HEAVEN'S FURY ACTIVATED
+M_INFO_DIVINE_JUDGEMENT_TARGET=TARGET AQUIRED...
 M_INFO_OCCUPIED=Occupied
 M_INFO_REPAIRED=Repaired
 M_INFO_STAGE_CLEARED=Stage Cleared
 M_INFO_STAGE_FAILED=Stage Failed
 M_OBJECTIVE_SKIRMISH_1=Destroy all enemy units
 M_OBJECTIVE_SKIRMISH_2=Capture all enemy castles
-
-P_ABILITY_DESCRIPTION_0=Units with this ability can capture villages.
-P_ABILITY_DESCRIPTION_1=Units with this ability gain 10 attack/defence bonus when in water.
-P_ABILITY_DESCRIPTION_2=Units with this ability gain 10 attack/defence bonus when in forest.
-P_ABILITY_DESCRIPTION_3=Units with this ability gain 10 attack/defence bonus when in mountain.
-P_ABILITY_DESCRIPTION_4=Units with this ability can destroy villages.
-P_ABILITY_DESCRIPTION_5=Units with this ability can move through all terrains using 1 movement point, and can move through ground enemy units. But they will not receive defence bonuses from terrains.
-P_ABILITY_DESCRIPTION_6=Necromancers can summon skeletons from fallen units, at the same time they will not be [Poisoned] if they standby on tombstones.
-P_ABILITY_DESCRIPTION_8=For units who have this ability, once they finished their actions they can use their remaining movement points to move again.
-P_ABILITY_DESCRIPTION_7=Units with this ability can heal allies, and the healing amount will increase when leveling up. Note that healer's heal can exceed target's HP cap once.
-P_ABILITY_DESCRIPTION_9=For units who have this ability, their attacks will attach [Poisoned] status to enemies for 2 turns. However units with this ability will not affect each other.
-P_ABILITY_DESCRIPTION_10=Units with this ability can repair ruined villages.
-P_ABILITY_DESCRIPTION_11=For units who have this ability, tombstones will not appear on the map when they die. Moreover, when they are [Poisoned] they can still receive heals from terrains and the poison damages will become heals. However heals from allies will become damages to them.
-P_ABILITY_DESCRIPTION_12=For units who have this ability, they gain 15 attack bonus when attacking enemies with ability [Air Force].
-P_ABILITY_DESCRIPTION_13=Units with this ability can move through water terrains using 1 movement point, and when they are on water they gain 10 health recovery at turn start.
-P_ABILITY_DESCRIPTION_14=Units with this ability can move through forest terrains using 1 movement point, and when they are in forest they gain 10 health recovery at turn start.
-P_ABILITY_DESCRIPTION_15=Units with this ability can move through mountain terrains using 1 movement point, and when they are in mountain they gain 10 health recovery at turn start.
-P_ABILITY_DESCRIPTION_16=Units with this ability can move through land terrains using 1 movement point.
-P_ABILITY_DESCRIPTION_17=For units who have this ability, when they standby they will attach [Slowed] status to enemies within 2 blocks for 1 turn. However units with this ability will not affect each other.
-P_ABILITY_DESCRIPTION_18=Units with this ability can capture castles.
-P_ABILITY_DESCRIPTION_19=Units with this ability cannot take action when moved and status cannot be attached to them.
-P_ABILITY_DESCRIPTION_20=For units who have this ability, when they standby they will attach [Inspired] status to allies within 2 blocks for current turn.
-P_ABILITY_DESCRIPTION_21=For units who have this ability, they gain 10 attack bonus and 5 physical defence bonus for each enemy units within 2 blocks.
-P_ABILITY_DESCRIPTION_22=For units who have this ability, when on ally villages or castles, they will gain 5 defence bonus.
-P_ABILITY_DESCRIPTION_23=For units who have this ability, when they standby they will clear debuff of allies within 2 blocks and heal them a bit. The healing amount will increase when leveling up.
-P_ABILITY_DESCRIPTION_24=For units who have this ability, their melee attacks will be 1.5 times stronger.
-P_ABILITY_DESCRIPTION_25=For units who have this ability, if the attacker is within 2 blocks away they can perform counter attacks.
-P_ABILITY_DESCRIPTION_26=For units who have this ability, their attacks will attach [Blinded] status to enemies. However units with this ability will not affect each other.
-P_ABILITY_DESCRIPTION_27=Units with this ability will recover 25% max HP at turn start, regardless of being [Poisoned] or not.
-P_ABILITY_DESCRIPTION_28=For units who have this ability, they receive 50% less damage from ranged attacks.
-P_ABILITY_DESCRIPTION_29=For units who have this ability, they receive 50% less damage from physical attacks but 50% more damage from magic attacks.
-
-P_STATUS_DESCRIPTION_0=Units who have been poisoned will lose 10 HP at turn start and cannot receive heal.
-P_STATUS_DESCRIPTION_1=For units who have been slowed, their movement points will be reduced to 1.
-P_STATUS_DESCRIPTION_2=For units who have been inspired, their gain 10 attack bonus.
-P_STATUS_DESCRIPTION_3=For units who have been blinded, their attack range will be reduced to 0.
-
-P_UNIT_DESCRIPTION_0=Soldiers are all-round solid fighters, and they can capture or repair villages to give you benefits.
-P_UNIT_DESCRIPTION_1=With their powerful bows archers can attack from a distance and are especially efficient against airborne enemies.
-P_UNIT_DESCRIPTION_2=Water elementals are friends of the water. When in water, they become much more stronger.
-P_UNIT_DESCRIPTION_3=They are skilled in the use of necromancy. Sorceresses are weak in melee combat but they can summon skeletons from the dead to aid you in the battle.
-P_UNIT_DESCRIPTION_4=These mystical beings of pure light have an aura that can remove negative effects from your allies and heal them a little bit.
-P_UNIT_DESCRIPTION_5=Wolves are fearsome hunters with very high motility. They travel very fast on land and kill enemies with their poisonous bites.
-P_UNIT_DESCRIPTION_6=Golems are ancient beings, incredibly strong in physical defence and are even stronger when in the mountains.
-P_UNIT_DESCRIPTION_7=Catapults blaze a trail of destruction with their enormous attack range. However they have very low motility.
-P_UNIT_DESCRIPTION_8=These massive flying beasts have ruled the sky since ancient times. They have very high motility and deadly melee attacks.
-P_UNIT_DESCRIPTION_9=Commander is the heart of an army. He has quite strong battle skills and can capture enemy castles.
-P_UNIT_DESCRIPTION_10=Skeletons are undead beings summoned by necromancers. They are not very strong but have poisonous attacks.
-P_UNIT_DESCRIPTION_11=<none>
-P_UNIT_DESCRIPTION_12=Paladins are holy armies who are skilled at healing and can also capture villages like soldiers do.
-P_UNIT_DESCRIPTION_13=Berserkers are born fighters. The more enemies are around them the stronger they become.
-P_UNIT_DESCRIPTION_14=Ghosts are mystical undead beings. They float above the ground and can blind enemies with their attacks.
-P_UNIT_DESCRIPTION_15=Black mages are skilled at using dark magic. Their attacks are always powerful against those with low magic defence.
-P_UNIT_DESCRIPTION_16=Wolfarchers are high mobility version of archers. They can strike almost anywhere you want them to attack.
-P_UNIT_DESCRIPTION_17=Ice elementals are mystical beings formed by pure ice. It seems they can fight well both in water and on land.
-P_UNIT_DESCRIPTION_18=Slimes' soft bodies can absorb a lot of physical damages. However they are pretty weak against magic units.
 
 T_GAME_TITLE=Ancient Empires Reloaded
 
@@ -216,7 +122,7 @@ L_EDITOR_TILES=Tiles
 L_EDITOR_UNITS=Units
 L_EMAIL=Email
 L_ENTER=Enter
-L_FORGOT_PASSWORD=I forgot my password
+L_FORGOT_PASSWORD=Forgot password
 L_FORUM=Forum
 L_FRIENDS=Friends
 L_GAME_LOBBY=Game Lobby
@@ -231,7 +137,7 @@ L_INVITE=Invite
 L_LEAVE=Leave
 L_LEAVE_ONLINE_GAME=Leave %s
 L_LEFT=Left
-L_LEFT_HANDER_MODE=Left-hander mode
+L_LEFT_HAND_MODE=Left Hand Mode
 L_LOADING=Loading...
 L_LOCAL_MAPS=Local Maps
 L_LOGIN=Login
@@ -280,8 +186,7 @@ L_ROOM_TYPE_PRIVATE=Private
 L_ROOM_TYPE_RANKED=Ranked
 L_SAVED_GAMES=Saved Games
 L_SEARCH=Search
-L_SET_RECOMMENDED_GOLD=Set Recommended Gold
-L_SKIP_AI_ANIMATION=Skip AI animation
+L_SKIP_AI_ANIMATION=Skip AI Animation
 L_SKIRMISH_SUMMARY=Skirmish Battle Summary
 L_SORT_BY_DOWNLOADS=Sort By Downloads
 L_SPECIAL_TERRAINS=Special Terrains
@@ -345,7 +250,6 @@ M_INFO_CONNECTION_ERROR=Connection Error
 M_INFO_DISCONNECTED=Disconnected.
 M_INFO_DOWNLOADED=Successfully downloaded '%s'.
 M_INFO_EMAIL_EXISTING=Email '%s' is taken.
-M_INFO_EMAIL_NOT_EXISTING=User with email '%s' does not exist.
 M_INFO_ERROR_CODE=Error Code [%d]
 M_INFO_FILE_EXISTS=File '%s' already exists.
 M_INFO_FORBIDDEN=Account forbidden.
@@ -439,16 +343,13 @@ L_UNIT_NAME_19=Mermaid
 
 M_INFO_GAME_CLOSE_ADMIN=[%s's game] has been closed by administrator.\n\nResponsible\n[%s]
 
-P_UNIT_DESCRIPTION_19=Mermaids are like soldiers but can move really fast on water. They can occupy and repair villages like normal soldiers do, so you can use them to gain control over the water!
+P_UNIT3_DESCRIPTION_19=Mermaids are like soldiers but can move really fast on water. They can occupy and repair villages like normal soldiers do, so you can use them to gain control over the water!
 
 #2.1.8
 
 L_UNIT_NAME_20=Druid
 
-L_ABILITY_NAME_30=Supporter
-P_ABILITY_DESCRIPTION_30=For units who have this ability, they can reset standby allies and let them act one more time. Cannot be used on units with the same ability or ability [Charger] & [Conqueror]. And each unit can be supported only once per turn.
-
-P_UNIT_DESCRIPTION_20=Druid is the son of nature, a born supporter. He can move very quickly while standing on earth and can help allies with his natural bless.
+P_UNIT3_DESCRIPTION_20=Druid is the son of nature, a born supporter. He can move very quickly while standing on earth and can help allies with his natural bless.
 
 #2.2.0
 
@@ -488,3 +389,110 @@ L_RECORD_TURNS=%d Turns
 
 M_INFO_NO_RECORD_FOUND=No Record Found
 M_INFO_USER_CONNECT=%s connected.
+
+#3.0.0
+
+L_ACCOUNT=Account
+L_LEADERBOARD=Leaderboard
+L_SEND_MESSAGE=Send Message
+L_PLAYER_RECORDING=System
+L_REPLAY=Replay
+L_REPLAY_PAUSE=Pause Replay
+L_REPLAY_RESUME=Resume Replay
+
+#ability names
+L_ABILITY3_NAME_0=Village Captor
+L_ABILITY3_NAME_1=Castle Captor
+L_ABILITY3_NAME_2=Repairer
+L_ABILITY3_NAME_3=Air Force
+L_ABILITY3_NAME_4=Marksman
+L_ABILITY3_NAME_5=Destroyer
+L_ABILITY3_NAME_6=Summoner
+L_ABILITY3_NAME_7=Healer
+L_ABILITY3_NAME_8=Poisoner
+L_ABILITY3_NAME_9=Undead
+L_ABILITY3_NAME_10=Melee Master
+L_ABILITY3_NAME_11=Ranged Defender
+L_ABILITY3_NAME_12=Son of Water
+L_ABILITY3_NAME_13=Son of Forest
+L_ABILITY3_NAME_14=Son of Mountain
+L_ABILITY3_NAME_15=Bloodthirsty
+L_ABILITY3_NAME_16=Counter Madness
+L_ABILITY3_NAME_17=Self-Repair
+L_ABILITY3_NAME_18=Attack Aura
+L_ABILITY3_NAME_19=Cleansing Aura
+L_ABILITY3_NAME_20=Weakening Aura
+L_ABILITY3_NAME_21=Assault Force
+L_ABILITY3_NAME_22=Son of Land
+L_ABILITY3_NAME_23=Blinding Attack
+L_ABILITY3_NAME_24=Supporter
+
+L_EFFECTS=Effects
+L_MAIN_MENU=Main Menu
+L_SET_START_GOLD=Set Start Gold
+
+#status names
+L_STATUS3_NAME_1=Poisoned
+L_STATUS3_NAME_2=Inspired
+L_STATUS3_NAME_3=Blinded
+L_STATUS3_NAME_4=Weakened
+
+M_INFO_USER_NOT_EXISTING=User '%s' does not exist.
+
+P_ABILITY3_DESCRIPTION_0=Units with this ability can capture villages.
+P_ABILITY3_DESCRIPTION_1=Units with this ability can capture castles.
+P_ABILITY3_DESCRIPTION_2=Units with this ability can repair destroyed villages.
+P_ABILITY3_DESCRIPTION_3=Air forces can move through all terrains using only 1 movement point. They can also move through ground units, but they cannot receive terrain defence bonus and also cannot receive heals from ground units.
+P_ABILITY3_DESCRIPTION_4=Marksman gains 15 attack bonus against air forces.
+P_ABILITY3_DESCRIPTION_5=Destroyers can destroy villages, they also gain 10 attack bonus against units standing on villages.
+P_ABILITY3_DESCRIPTION_6=Summoners can summon skeletons from tombstones, also they won lose HP when destroying tombstones.
+P_ABILITY3_DESCRIPTION_7=Healers can heal allies, their healing increases as they level up. Healer's heal can exceed target's max HP.
+P_ABILITY3_DESCRIPTION_8=Poisoners can poison enemies with their attacks, does not work if enemy also has this ability.
+P_ABILITY3_DESCRIPTION_9=Undead units won't create tombstones when they die. Ally's heal will become damage to them, but they will gain HP when destroying tombstones and poison damage will become heal to them.
+P_ABILITY3_DESCRIPTION_10=Melee masters do 50% more damage with melee attacks.
+P_ABILITY3_DESCRIPTION_11=Ranged defenders receive 50% less damage from ranged attacks.
+P_ABILITY3_DESCRIPTION_12=Sons of water gains 10 bonus attack/defence and get healed at turn start when on water, they can also move through water terrains using 1 movement point.
+P_ABILITY3_DESCRIPTION_13=Sons of forest gains 10 bonus attack/defence and get healed at turn start when in forest, they can also move through forest terrains using 1 movement point.
+P_ABILITY3_DESCRIPTION_14=Sons of mountain gains 10 bonus attack/defence and get healed at turn start when on mountain, they can also move through mountain terrains using 1 movement point.
+P_ABILITY3_DESCRIPTION_15=For units who are bloodthirsty, their attack damage won't be affected by current HP.
+P_ABILITY3_DESCRIPTION_16=For units who have this ability, they can counter attack within range 2 regardless of their attack range.
+P_ABILITY3_DESCRIPTION_17=For self-repair units they gain 25% HP recovery at turn start, regardless of being poisoned or not.
+P_ABILITY3_DESCRIPTION_18=For units with attack aura, they will attach inspired status to allies on standby within range 2.
+P_ABILITY3_DESCRIPTION_19=For units with cleansing aura, they will remove negative status from allies and heal them for a small amount on standby within range 2.
+P_ABILITY3_DESCRIPTION_20=For units with weakening aura, they will attach weakened status to enemies on standby with range 2.
+P_ABILITY3_DESCRIPTION_21=Assault forces can use remaining movement points to move again after action.
+P_ABILITY3_DESCRIPTION_22=Sons of land can move through all land terrains using only 1 movement point, but they will have to use 1 more movement point to move through water terrains (bridges are water terrains).
+P_ABILITY3_DESCRIPTION_23=Units with blinding attack will attach blinded status to enemies with their attacks, does not work if enemy also has this ability.
+P_ABILITY3_DESCRIPTION_24=Supporters can support allies by reset them from standby state to let them act one more time. Assault forces and castle captors cannot be supported.
+
+P_STATUS3_DESCRIPTION_1=Units who have been poisoned will lose 10 HP at turn start and cannot receive heal.
+P_STATUS3_DESCRIPTION_2=For units who have been inspired, their gain 10 attack bonus.
+P_STATUS3_DESCRIPTION_3=For units who have been blinded, their attack range will be reduced to 0.
+P_STATUS3_DESCRIPTION_4=For units who have been weakened, their movement points will be reduced to 1 and defence will be reduced by 10.
+
+P_TILE_CASTLE_DESCRIPTION=Can generate income at turn start, can recruit new units when no unit is standing on it except your own commander.
+P_TILE_RUIN_DESCRIPTION=Can be repaired.
+P_TILE_TEMPLE_DESCRIPTION=Clears negative status at turn start.
+P_TILE_VILLAGE_DESCRIPTION=Can generate income at turn start, can be destroyed.
+
+P_UNIT3_DESCRIPTION_0=Soldiers are all-round solid fighters, and they can capture or repair villages to give you benefits.
+P_UNIT3_DESCRIPTION_1=With their powerful bows archers can attack from a distance and are especially efficient against airborne enemies.
+P_UNIT3_DESCRIPTION_2=Aqua elementals are friends of the water. While in water, they become much more stronger.
+P_UNIT3_DESCRIPTION_3=Sorceresses are skilled in using necromancy. They are weak in normal combat but they can summon skeletons from the dead to aid you in the battle.
+P_UNIT3_DESCRIPTION_4=These mystical beings of pure light have an aura that can remove negative effects from your allies and heal them a little bit.
+P_UNIT3_DESCRIPTION_5=Wolves are fearsome hunters with very high motility. They travel very fast on land and kill enemies with their poisonous bites.
+P_UNIT3_DESCRIPTION_6=Golems are ancient beings, incredibly strong in physical defence and are even stronger when in the mountains. They can also weaken enemies with weakening aura.
+P_UNIT3_DESCRIPTION_7=Catapults blaze a trail of destruction with their enormous attack range. However they have very low motility.
+P_UNIT3_DESCRIPTION_8=These massive flying beasts have ruled the sky since ancient times. They have very high motility and deadly melee attacks.
+P_UNIT3_DESCRIPTION_9=Commander is the heart of an army. He has quite strong battle skills and can capture enemy castles.
+P_UNIT3_DESCRIPTION_10=Skeletons are undead beings summoned by necromancers. They are not very strong but have poisonous attacks.
+P_UNIT3_DESCRIPTION_11=<none>
+P_UNIT3_DESCRIPTION_12=Paladins are holy armies who are skilled at healing and can also capture villages like soldiers do.
+P_UNIT3_DESCRIPTION_13=Berserkers are born fighters, they can just keep fighting with full strength even with missing HP.
+P_UNIT3_DESCRIPTION_14=Ghosts are mystical undead beings. They float above the ground and can destroy villages.
+P_UNIT3_DESCRIPTION_15=Black mages are skilled at using dark magic. Their attacks can blind enemies which is quite annoying in battle.
+P_UNIT3_DESCRIPTION_16=Wolfarchers are high mobility version of regular archers. They can strike almost anywhere you want them to attack.
+P_UNIT3_DESCRIPTION_17=Ice elementals are mystical beings formed by pure ice. It seems they can fight well both in water and on land.
+P_UNIT3_DESCRIPTION_18=Slimes' soft bodies can absorb a lot of physical damages. However they are pretty weak against magic damage.
+
+P_TOMB_DESCRIPTION=A tombstone will appear after a unit is defeated (except for commanders and undead). Summoners can summon skeletons from tombstones which will destroy them. The other way of destroying a tombstone is to standby on it, but the unit doing it will lose a little HP immediately.
