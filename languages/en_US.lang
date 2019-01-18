@@ -440,14 +440,14 @@ L_STATUS3_NAME_4=Weakened
 M_INFO_USER_NOT_EXISTING=User '%s' does not exist.
 
 P_ABILITY3_DESCRIPTION_0=Units with this ability can capture villages.
-P_ABILITY3_DESCRIPTION_1=Units with this ability can capture castles.
+P_ABILITY3_DESCRIPTION_1=Units with this ability can capture castles, but cannot be supported by supporters.
 P_ABILITY3_DESCRIPTION_2=Units with this ability can repair destroyed villages.
 P_ABILITY3_DESCRIPTION_3=Air forces can move through all terrains using only 1 movement point. They can also move through ground units, but they cannot receive terrain defence bonus and also cannot receive heals from ground units.
 P_ABILITY3_DESCRIPTION_4=Marksman gains 15 attack bonus against air forces.
 P_ABILITY3_DESCRIPTION_5=Destroyers can destroy villages, they also gain 10 attack bonus against units standing on villages.
 P_ABILITY3_DESCRIPTION_6=Summoners can summon skeletons from tombstones, also they won lose HP when destroying tombstones.
 P_ABILITY3_DESCRIPTION_7=Healers can heal allies, their healing increases as they level up. Healer's heal can exceed target's max HP.
-P_ABILITY3_DESCRIPTION_8=Poisoners can poison enemies with their attacks, does not work if enemy also has this ability.
+P_ABILITY3_DESCRIPTION_8=Poisoners can poison enemies with their attacks, does not work if enemy also has this ability. Gain 5 attack bonus against units with positive status.
 P_ABILITY3_DESCRIPTION_9=Undead units won't create tombstones when they die. Ally's heal will become damage to them, but they will gain HP when destroying tombstones and poison damage will become heal to them.
 P_ABILITY3_DESCRIPTION_10=Melee masters do 50% more damage with melee attacks.
 P_ABILITY3_DESCRIPTION_11=Ranged defenders receive 50% less damage from ranged attacks.
@@ -460,15 +460,15 @@ P_ABILITY3_DESCRIPTION_17=For self-repair units they gain 25% HP recovery at tur
 P_ABILITY3_DESCRIPTION_18=For units with attack aura, they will attach inspired status to allies on standby within range 2.
 P_ABILITY3_DESCRIPTION_19=For units with cleansing aura, they will remove negative status from allies and heal them for a small amount on standby within range 2.
 P_ABILITY3_DESCRIPTION_20=For units with weakening aura, they will attach weakened status to enemies on standby with range 2.
-P_ABILITY3_DESCRIPTION_21=Assault forces can use remaining movement points to move again after action.
+P_ABILITY3_DESCRIPTION_21=Assault forces can use remaining movement points to move again after action, but cannot be supported by supporters.
 P_ABILITY3_DESCRIPTION_22=Sons of land can move through all land terrains using only 1 movement point, but they will have to use 1 more movement point to move through water terrains (bridges are water terrains).
-P_ABILITY3_DESCRIPTION_23=Units with blinding attack will attach blinded status to enemies with their attacks, does not work if enemy also has this ability.
-P_ABILITY3_DESCRIPTION_24=Supporters can support allies by reset them from standby state to let them act one more time. Assault forces and castle captors cannot be supported.
+P_ABILITY3_DESCRIPTION_23=Units with blinding attack will attach blinded status to enemies with their attacks, does not work if enemy also has this ability. Gain 5 attack bonus against units with positive status.
+P_ABILITY3_DESCRIPTION_24=Supporters can support allies by reset them from standby state to let them act one more time, does not work if target has same ability or has higher level than self.
 
 P_STATUS3_DESCRIPTION_1=Units who have been poisoned will lose 10 HP at turn start and cannot receive heal.
-P_STATUS3_DESCRIPTION_2=For units who have been inspired, their gain 10 attack bonus.
+P_STATUS3_DESCRIPTION_2=For units who have been inspired, their gain 5 attack bonus.
 P_STATUS3_DESCRIPTION_3=For units who have been blinded, their attack range will be reduced to 0.
-P_STATUS3_DESCRIPTION_4=For units who have been weakened, their movement points will be reduced to 1 and defence will be reduced by 10.
+P_STATUS3_DESCRIPTION_4=For units who have been weakened, their movement points will be reduced to 1 and defence will be reduced by 5.
 
 P_TILE_CASTLE_DESCRIPTION=Can generate income at turn start, can recruit new units when no unit is standing on it except your own commander.
 P_TILE_RUIN_DESCRIPTION=Can be repaired.
@@ -496,3 +496,16 @@ P_UNIT3_DESCRIPTION_17=Ice elementals are mystical beings formed by pure ice. It
 P_UNIT3_DESCRIPTION_18=Slimes' soft bodies can absorb a lot of physical damages. However they are pretty weak against magic damage.
 
 P_TOMB_DESCRIPTION=A tombstone will appear after a unit is defeated (except for commanders and undead). Summoners can summon skeletons from tombstones which will destroy them. The other way of destroying a tombstone is to standby on it, but the unit doing it will lose a little HP immediately.
+
+#3.0.1
+
+L_LANDSCAPE_MODE=Landscape Mode
+
+#3.1.7
+
+M_INFO_SYNC_FAIL=Sync failed, try again?
+
+#3.2.0
+L_ABILITY3_NAME_25=Grim Reaper
+L_FINISHED_GAMES=Finished Games
+P_ABILITY3_DESCRIPTION_25=Grim Reapers gain 20 attack bonus when attacking units with negative status.

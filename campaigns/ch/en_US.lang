@@ -22,6 +22,8 @@ C_CH_STAGE_4_OBJECTIVE_1=VICTORY: Defeat all enemies and capture all enemy castl
 C_CH_STAGE_4_OBJECTIVE_2=DEFEAT: Lose all castle and troops.
 C_CH_STAGE_4_OBJECTIVE_3=DEFEAT: Turn number exceeds 200.
 C_CH_STAGE_4_MESSAGE_1=Your majesty, there's a bandit stronghold in the mountain, we need to eliminate them to protect the village!
+C_CH_STAGE_4_MESSAGE_2=Your majesty, we have occupied an enemy castle, our victory is near!
+C_CH_STAGE_4_MESSAGE_3=Wait a moment, damn! All the enemies are getting mad on us for occupying their castle! Protect our commander!
 
 C_CH_STAGE_5_NAME=Endless Trial
 C_CH_STAGE_5_OBJECTIVE_1=VICTORY: Defeat all enemies and capture all enemy castle.

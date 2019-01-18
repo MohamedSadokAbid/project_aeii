@@ -1,0 +1,84 @@
+
+C_AEIII_NAME=Battle of Thorin Finale
+
+C_AEIII_STAGE_1_NAME=Return to Ancient Citadel
+C_AEIII_STAGE_1_OBJECTIVE=Defeat all the enemies, king Galamar must survive.
+C_AEIII_STAGE_1_MESSAGE_1=It's been a year since the defeat of Saeth, the kingdom is finally back to it's normal state.
+C_AEIII_STAGE_1_MESSAGE_2=Galamar decided to return to Ancient Citadel to see if they could recover the buried crystals.
+C_AEIII_STAGE_1_MESSAGE_3=We are back at last, there are a lot of work needs to be done, hurry up soldiers!
+C_AEIII_STAGE_1_MESSAGE_4=No... the Ancient Citadel is empty, someone has already recovered the crystals!
+C_AEIII_STAGE_1_MESSAGE_5=This does not look good, it must be Saeth's remaining troops in our kingdom who did this.
+C_AEIII_STAGE_1_MESSAGE_6=There's no time to lose, we need to go back to Thorin City to come up with a plan!
+C_AEIII_STAGE_1_MESSAGE_7=Enemy ambush! They were already expecting us, protect the king!
+C_AEIII_STAGE_1_MESSAGE_8=Your majesty, in order to restore the power of crystals they must be brought back to the temples.
+C_AEIII_STAGE_1_MESSAGE_9=I suggest we visit the temples to see if we can track down our enemies.
+C_AEIII_STAGE_1_MESSAGE_10=Agreed. Time is upon us, let's head for the Temple of Life first!
+
+C_AEIII_STAGE_2_NAME=The Temple of Life
+C_AEIII_STAGE_2_OBJECTIVE=Reach the temple with Galamar or defeat all enemies, king Galamar must survive.
+C_AEIII_STAGE_2_MESSAGE_1=Damn we are a bit too late, the Temple of Life is already under attack!
+C_AEIII_STAGE_2_MESSAGE_2=Our empire's Paladin squad has just arrived, they will be helping us retake the crystal!
+C_AEIII_STAGE_2_MESSAGE_3=Forward troops, let our enemies pay!
+C_AEIII_STAGE_2_MESSAGE_4=That was a good fight, but too late Galamar, we have already transferred the crystal!
+C_AEIII_STAGE_2_MESSAGE_5=Feel the power of god!
+C_AEIII_STAGE_2_MESSAGE_6=This is worse then I thought. The rest of the temples are most likely lost by now.
+C_AEIII_STAGE_2_MESSAGE_7=There's no meaning chasing them anymore. They have got the mighty power, we stand no chance.
+C_AEIII_STAGE_2_MESSAGE_8=Your highness, I heard there is an ancient fighting clan in our kingdom. If we ally with them, we may be able to win!
+C_AEIII_STAGE_2_MESSAGE_9=Good news indeed. Let's head back to Thorin and get prepared to visit them!
+
+C_AEIII_STAGE_3_NAME=Only Cold Steel
+C_AEIII_STAGE_3_OBJECTIVE=Defeat the leader of 'ancient fighting clan', Galamar and Valadorn must survive.
+C_AEIII_STAGE_3_MESSAGE_1=After a bit of trek, Galamar and Valadorn finally arrived at the home town of the so called 'ancient fighting clan'.
+C_AEIII_STAGE_3_MESSAGE_2=Your highness, I just brought back their message! 'We do not ally with anyone, but the stronger rules the other.
+C_AEIII_STAGE_3_MESSAGE_3=Come and fight us with only cold steel, no fancy magic, the winner do whatever they want.' Is what they said.
+C_AEIII_STAGE_3_MESSAGE_4=So this is a challenge to us, we accept!
+C_AEIII_STAGE_3_MESSAGE_5=The berserker clan joined Thorin Kingdom!
+C_AEIII_STAGE_3_MESSAGE_6=Brother, it seems the berserker clan were fighting against a magic clan living aside the lake to the north.
+C_AEIII_STAGE_3_MESSAGE_7=According to them those magic foes are pretty strong. If we could defeat them they would also be a useful ally to us.
+C_AEIII_STAGE_3_MESSAGE_8=Sounds good, at this point we have to make as many allies as we can. Prepare the troops, we are heading there shortly!
+
+C_AEIII_STAGE_4_NAME=Uncharted Water
+C_AEIII_STAGE_4_OBJECTIVE_1=Occupy the castle to the south of the lake.
+C_AEIII_STAGE_4_OBJECTIVE_2=Occupy enemy castle, Galamar and Valadorn must survive.
+C_AEIII_STAGE_4_OBJECTIVE_3=(Optional) Defeat Ice Elemental Chief.
+C_AEIII_STAGE_4_MESSAGE_1=What a big lake! Wait what are those magic looking things in the lake?
+C_AEIII_STAGE_4_MESSAGE_2=They must the magical clan the berserkers were talking about. But it seems they haven't noticed us yet.
+C_AEIII_STAGE_4_MESSAGE_3=I suggest we quickly take over that castle, so we gain a lot of advantage over our enemies.
+C_AEIII_STAGE_4_MESSAGE_4=That small island also looks suspicious, let's check it when we get the chance!
+C_AEIII_STAGE_4_MESSAGE_5=Galamar and Valadorn, finally you are here, we have been waiting for you!
+C_AEIII_STAGE_4_MESSAGE_6=Damn, you were behind this all of the time? Curse it!
+C_AEIII_STAGE_4_MESSAGE_7=MUAHAHAHAHA! Now you finally realized it, but it's too late!
+C_AEIII_STAGE_4_MESSAGE_8=Villages around this lake are very valuable, I have already controlled the Ice Elemental Chief to safe guard them.
+C_AEIII_STAGE_4_MESSAGE_9=This water is under my control now, you will not be able to recruit aqua units or dragons. Prepare to be defeated! MUAHAHAHAHA!
+C_AEIII_STAGE_4_MESSAGE_10=Mermaid joined Thorin Kingdom!
+C_AEIII_STAGE_4_MESSAGE_11=Ice Elemental clan joined Thorin Kingdom!
+C_AEIII_STAGE_4_MESSAGE_12=Grrrr, you folks are tougher then I thought, but our main force is already on their way to Thorin City, you have no hope!
+C_AEIII_STAGE_4_MESSAGE_13=This is bad, we are heading back to Thorin City!
+
+C_AEIII_STAGE_5_NAME=The Gates of Death
+C_AEIII_STAGE_5_OBJECTIVE=Galamar or Valadorn reach the exit in the north, they must survive.
+C_AEIII_STAGE_5_MESSAGE_1=After a few days, Galamar and Valadorn's army finally reached the Gates of Thorin, but things don't look right.
+C_AEIII_STAGE_5_MESSAGE_2=Go back Galamar and Valadorn. The way is shut. It was made by those who are dead, and the dead keep it.
+C_AEIII_STAGE_5_MESSAGE_3=Damn our enemy's power is growing too fast, the Gates of Thorin has already fallen into the undead army's hand!
+C_AEIII_STAGE_5_MESSAGE_4=Report! The Druid clan in the nearby forest has sensed the presence of the undead and is willing to help defeat them!
+C_AEIII_STAGE_5_MESSAGE_5=That's too great. Forward troops, we need get to Thorin City as soon as possible!
+
+C_AEIII_STAGE_6_NAME=Breakthrough
+C_AEIII_STAGE_6_OBJECTIVE=Defeat one of the demon lords before turn 64, Galamar and Valadorn must survive.
+C_AEIII_STAGE_6_MESSAGE_1=Enemies ahead! All soldiers prepare for battle!
+C_AEIII_STAGE_6_MESSAGE_2=Not this time Galamar and Valadorn, the crystals are restored and we are ready to revive Saeth. You won't get through before the ritual is done!
+C_AEIII_STAGE_6_MESSAGE_3=We won't let you do what you want, we will break through your defence line immediately!
+C_AEIII_STAGE_6_MESSAGE_4=Report! Our kingdom's new Wolfarcher squad is ready for your command!
+C_AEIII_STAGE_6_MESSAGE_5=Good. Forward troops, we need to defeat one of the enemy leaders to breakthrough!
+
+C_AEIII_STAGE_7_NAME=The Armageddon
+C_AEIII_STAGE_7_OBJECTIVE=Defeat Saeth, Galamar and Valadorn must survive.
+C_AEIII_STAGE_7_MESSAGE_1=You damn evil, stop right there!
+C_AEIII_STAGE_7_MESSAGE_2=You are a bit too late Galamar and Valadorn, the ritual is complete. I sacrifice myself for lord Saeth!
+C_AEIII_STAGE_7_MESSAGE_3=The three crystals shattered, their power is transferred into Saeth.
+C_AEIII_STAGE_7_MESSAGE_4=It's feels so good to get strength again. This time I have completely absorbed the crystals, you stand no chance before me! MUAHAHAHAHA!
+C_AEIII_STAGE_7_MESSAGE_5=Curse you Saeth! With the power of all around our kingdom, we will defeat you before you can even fight back!
+C_AEIII_STAGE_7_MESSAGE_6=Forward troops, the target is Saeth alone!
+C_AEIII_STAGE_7_MESSAGE_7=Grrrr, how could I be defeated with all those crystals' power...
+C_AEIII_STAGE_7_MESSAGE_8=I pity you, the crystals are created by the power of this land, you sure have no match for it!
+C_AEIII_STAGE_7_MESSAGE_9=...\n(turns into ashes)

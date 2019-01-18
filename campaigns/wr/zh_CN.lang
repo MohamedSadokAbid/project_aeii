@@ -22,9 +22,8 @@ C_WR_STAGE_3_MESSAGE_2=（我们可以通过击败其他队伍来节省时间）
 C_WR_STAGE_3_MESSAGE_3=我们消灭了一伙敌军，移动到下一个据点吧。
 
 C_WR_STAGE_4_NAME=进退两难
-C_WR_STAGE_4_OBJECTIVE_1=胜利条件: 击败红队
+C_WR_STAGE_4_OBJECTIVE_1=胜利条件: 击败红队，全灭敌军并占领所有城堡
 C_WR_STAGE_4_OBJECTIVE_2=失败条件: 我军被全灭并且失去所有城堡
-C_WR_STAGE_4_OBJECTIVE_1=VICTORY:.胜利条件: 击败红队
 C_WR_STAGE_4_MESSAGE_1=陛下，我们来到了北境，大部分敌方领主都投降了，我们即将跟他们决战!
 C_WR_STAGE_4_MESSAGE_2=敌袭!
 C_WR_STAGE_4_MESSAGE_3=敌军从背后偷袭，占领了我们的城堡，我们必须夺回城堡

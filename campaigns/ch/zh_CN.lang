@@ -21,7 +21,9 @@ C_CH_STAGE_4_NAME=岩石峡谷
 C_CH_STAGE_4_OBJECTIVE_1=胜利条件: 击败所有的敌军并占领敌军的城堡
 C_CH_STAGE_4_OBJECTIVE_2=失败条件: 失去所有城堡和部队
 C_CH_STAGE_4_OBJECTIVE_3=失败条件: 回合数超过200
-C_CH_STAGE_4_MESSAGE_1=陛下，在这个山里有一个山贼的据点，我们需要剿灭他们来保护这个小镇！
+C_CH_STAGE_4_MESSAGE_1=大王，在这个山里有一个山贼的据点，我们需要剿灭他们来保护这个小镇！
+C_CH_STAGE_4_MESSAGE_2=报告大王，我们已经占领了山贼的一座城堡，胜利简直就在眼前啊！
+C_CH_STAGE_4_MESSAGE_3=等一下，卧槽！山贼们因为城堡被占全都发飙了！尼玛赶紧保护大王！
 
 C_CH_STAGE_5_NAME=俄罗斯套娃
 C_CH_STAGE_5_OBJECTIVE_1=胜利条件: 击败所有的敌军并占领敌军的城堡
