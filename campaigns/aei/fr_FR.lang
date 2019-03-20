@@ -1,0 +1,63 @@
+
+C_AEI_NAME=La bataille de Thorin Prequel
+
+C_AEI_STAGE_1_NAME=Regrouper
+C_AEI_STAGE_1_OBJECTIVE=Le roi Galamar doit occuper le château, maintenez toutes les troupes en vie.
+C_AEI_STAGE_1_MESSAGE_1=Le royaume de Thorin est divisé. Trahi par son propre frère jumeau, Valadorn, le roi Galamar s'est réfugié dans les régions frontalières de l'est.
+C_AEI_STAGE_1_MESSAGE_2=Seules la Garde bleue, les troupes personnelles de Galamar, sont restées fidèles et se tiennent prêtes à reprendre possession de la terre ...
+C_AEI_STAGE_1_MESSAGE_3=Sire, vos troupes sont épuisées après la bataille de la nuit dernière. Il serait sage de se regrouper au château abandonné.
+C_AEI_STAGE_1_MESSAGE_4=Conseils judicieux, capitaine. Préparez les troupes, nous ne devrions pas laisser l'ennemi nous prendre au dépourvu.
+C_AEI_STAGE_1_MESSAGE_5=L'armée de Valadorn devrait être facile à repérer avec son uniforme rouge.
+C_AEI_STAGE_1_MESSAGE_6=Espions !! Valadorn et sa Légion Rouge doivent savoir où nous sommes ! Rapidement, protégez le roi !
+
+C_AEI_STAGE_2_NAME=Amis & Ennemis
+C_AEI_STAGE_2_OBJECTIVE_1=Occuper le château et au moins un village, produire au moins une nouvelle unité de troupes.
+C_AEI_STAGE_2_OBJECTIVE_2=Vaincre tous les loups pour aider le Chef Des Éléments.
+C_AEI_STAGE_2_MESSAGE_1=Le roi Galamar a survécu à l'attaque de Valadorn. Cependant, pour tenter de reconquérir son royaume, il doit d'abord aller chercher de nouveaux alliés dans le nord.
+C_AEI_STAGE_2_MESSAGE_2=En avant ! Mais d'abord, occupez ces deux bâtiments. Nous pouvons nous reposer une fois que nous atteignons le prochain village.
+C_AEI_STAGE_2_MESSAGE_3=Sire, nos éclaireurs rapportent que les éléments du nord sont attaqués !
+C_AEI_STAGE_2_MESSAGE_4=Alors il faut agir vite ! Le Chef Des Éléments est un vieil allié et il ne manquera pas de nous aider si nous pouvons le sauver.
+C_AEI_STAGE_2_MESSAGE_5=Sire, ces éléments apportent des nouvelles de leur village. Ils sont attaqués par les loups de la forêt !
+C_AEI_STAGE_2_MESSAGE_6=Loups ? Alors nous devrons utiliser le terrain à notre avantage, se précipiter pour attaquer serait idiot.
+C_AEI_STAGE_2_MESSAGE_7=Faites attention votre majesté, l'attaque des loups est toxique !
+
+C_AEI_STAGE_3_NAME=Escorte
+C_AEI_STAGE_3_OBJECTIVE=Galamar et le Chef Des Éléments doivent atteindre la Tour Grise.
+C_AEI_STAGE_3_MESSAGE_1=Le Chef Des Éléments accepte de rejoindre les forces de Galamar. Les pensées de Galamar se tournent maintenant vers les sorciers de la Tour Grise.
+C_AEI_STAGE_3_MESSAGE_2=Si le Chef Des Éléments peut les persuader d’aider, leur magie serait un atout précieux pour ses forces grandissantes.
+C_AEI_STAGE_3_MESSAGE_3=Sire, le pont a été détruit !
+C_AEI_STAGE_3_MESSAGE_4=Valadorn doit nous attendre, nous devons trouver un autre chemin. Cela pourrait être un piège.
+C_AEI_STAGE_3_MESSAGE_5=Troupes ! Gardez les yeux ouverts et protégez le Chef Des Éléments à tout prix.
+
+C_AEI_STAGE_4_NAME=Renforts
+C_AEI_STAGE_4_OBJECTIVE=Sauver la ville : détruire toutes les unités ennemies !
+C_AEI_STAGE_4_MESSAGE_1=Arrivé à la Tour Grise, le Grand Sorcier accepte d’aider Galamar. Cependant, les troupes de Galamar n'ont pas le temps de se reposer, alors qu'un message arrive de la ville voisine du Var Telan, annonçant une attaque surprise de la Légion Rouge de Valadorn.
+C_AEI_STAGE_4_MESSAGE_2=Votre majesté, la Légion Rouge ! Attention à leur catapulte à longue portée !
+C_AEI_STAGE_4_MESSAGE_3=C'est quoi cette trahison ! La ville s'est retournée contre nous !
+C_AEI_STAGE_4_MESSAGE_4=Aussi prévisible que jamais, mon frère ! Je vous ai maintenant !
+C_AEI_STAGE_4_MESSAGE_5=Il faut battre en retraite !! Maudit Galamar ! Vous ne serez pas aussi chanceux la prochaine fois !
+
+C_AEI_STAGE_5_NAME=Sauvetage de dragon !
+C_AEI_STAGE_5_OBJECTIVE=Éliminer le commandant ennemi et libérer les dragons.
+C_AEI_STAGE_5_MESSAGE_1=Alors que les forces de Galamar s'installent dans le château de la ville, une patrouille de reconnaissance découvre que des serpents volants, appelés dragons, sont retenus prisonniers dans un camp ennemi à proximité.
+C_AEI_STAGE_5_MESSAGE_2=Les dragons pourraient-ils être utilisés contre Valadorn et ses forces? Pour le savoir, Galamar devra les sauver.
+C_AEI_STAGE_5_MESSAGE_3=Des sources indiquent que les dragons sont détenus dans ce château.
+C_AEI_STAGE_5_MESSAGE_4=Soyez prudent, votre Majesté, les dragons peuvent être aussi bien des ennemis redoutables que des alliés puissants.
+C_AEI_STAGE_5_MESSAGE_5=Regardez, votre Majesté, les dragons se sont libérés! Ils sont maintenant sous notre commandement !
+
+C_AEI_STAGE_6_NAME=Siège !
+C_AEI_STAGE_6_OBJECTIVE=Détruire toutes les unités ennemies !
+C_AEI_STAGE_6_MESSAGE_1=Avec les puissants dragons qui s’ajoutent à ses forces, Galamar est prêt à se battre contre Valadorn. Il décide de lancer une attaque surprise sur l'avant-poste de commandement principal à l'extérieur de la ville de Thorin.
+C_AEI_STAGE_6_MESSAGE_2=La ville est bien défendue, votre Majesté.
+C_AEI_STAGE_6_MESSAGE_3=Il semble donc. Nous devrons peut-être modifier notre plan de bataille.
+
+C_AEI_STAGE_7_NAME=Assaut final
+C_AEI_STAGE_7_OBJECTIVE=Détruire toutes les unités ennemies et sauver le royaume !
+C_AEI_STAGE_7_MESSAGE_1=Galamar est sur le point de reprendre la ville quand soudainement une énorme explosion déchire le sol.
+C_AEI_STAGE_7_MESSAGE_2=Les troupes de Valadorn apparaissent partout ?! Quel genre de magie diabolique est-ce ?
+C_AEI_STAGE_7_MESSAGE_3=Alors, frère jumeau, il semble que nos positions soient inversées ! Soumettez maintenant ou soyez détruit !
+C_AEI_STAGE_7_MESSAGE_4=Jamais ! Quel que soit le pouvoir des ténèbres qui vous contrôle, je vais le vaincre !
+C_AEI_STAGE_7_MESSAGE_5=Galamar ... Qu'est-ce que j'ai fait ?
+C_AEI_STAGE_7_MESSAGE_6=Le sortilège ! Il est cassé !
+C_AEI_STAGE_7_MESSAGE_7=Avec la victoire de Galamar, le sortilège contrôlant Valadorn s'est brisé. La force maléfique n'est autre que Saeth, le démon de l'ombre !
+C_AEI_STAGE_7_MESSAGE_8=Vaincu, et avec un rugissement terrible, il ordonne à son armée noire d’attaquer Galamar. Le nouveau Royaume-Uni de Thorin résistera-t-il à cette attaque ? Galamar et son frère peuvent-ils bannir le diabolique Saeth une fois pour toutes?
